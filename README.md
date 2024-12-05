@@ -13,4 +13,4 @@
    Find elements that are in either of two sets but not in both (symmetric difference).
 
 5. **Exception Handling for Division (5 Marks):**  
-   Implement a division function with exception handling for errors like division by zero or invalid inputs.
+   Implement a division function with exception handling for errors like division by zero or the invalid inputs.
